@@ -6,11 +6,10 @@ The goal is to create a ETL pipeline using ADF which can take an On-premise Data
 
 Data Ingestion to the Cloud to perform transformation and store the data in the structured form in ADLS to use for report and analysis purpose.
 # Prerequisites:
-
-1.Data Ingestion
-2.ETL techniques using Azure Cloud Services
-3.Data Transformation
-4.Data Loading
+1.Data Ingestion.
+2.ETL techniques using Azure Cloud Services.
+3.Data Transformation.
+4.Data Loading.
 
 # Part 1: Data Ingestion
 1.Restore the AdventureWorksLT2017 Database from the .bak file.
