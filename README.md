@@ -16,6 +16,7 @@ Part 1: Data Ingestion
 1.Restore the AdventureWorksLT2017 Database from the .bak file.
 ![WhatsApp Image 2024-07-16 at 6 10 01 PM](https://github.com/user-attachments/assets/d5b20e78-86cf-4890-9969-0772b2253eee)
 2.Setup the Microsoft Integration Runtime between Azure and the On-premise SQL Server.
+
 3.Create a Copy Pipeline which loads the data from local on-premise server into Azure Data Lake Storage Gen2 "bronze" directory.
 Note that the Data store is stored in "Parquet format" in ADLS Gen2 storage folders.
 ![image](https://github.com/user-attachments/assets/c9ceaf81-3ba2-47de-952e-9e708644ebd8)
