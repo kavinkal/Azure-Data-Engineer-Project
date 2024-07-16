@@ -31,7 +31,7 @@ Launch Azure Databricks and run transformations using these notebooks "bronze to
 ![image](https://github.com/user-attachments/assets/eae0bc30-aad9-4dcc-b6a3-d09f5d43b676)
 Integrating the spark notebook to the ADF using Notebook activity.
 ![image](https://github.com/user-attachments/assets/82820f59-f975-43fa-9ad9-1f31d5647e25)
-# Part:3
+# Part:3 Data Loading
 After doing the data cleaning the data is stored in the silver container in the delta format.Here, i simply overwrites the data. As like same post this activity done some aggregation and changes un the data then moved to gold container.
 
 
