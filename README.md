@@ -13,4 +13,7 @@ Data Ingestion to the Cloud to perform transformation and store the data in the 
 
 #Prerequisites:
 Part 1: Data Ingestion
+![WhatsApp Image 2024-07-16 at 6 10 01 PM](https://github.com/user-attachments/assets/d5b20e78-86cf-4890-9969-0772b2253eee)
+
+
 
